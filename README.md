@@ -13,7 +13,7 @@
 
 # 💻 Projeto 
 
-![Screenshot of the final project]()
+![Screenshot of the final project](https://github.com/Clara-Pacheco/Explorer--Rocketseat--Projeto05/blob/main/assets/project-final-result.gif)
 
 ## 🧪 Tecnologias | HTML e CSS
 --- 
